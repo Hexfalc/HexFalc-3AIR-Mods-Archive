@@ -1,8 +1,8 @@
 # Fixed Switch Screen 
 
-Simply removes that number from RookieModMaker's Nintendo Switch Screen Mod.
+Simply removes that number from RookieModMaker's Nintendo Switch Screen mod.
 
-Original mod was made by RookieModMaker using LaveSlime's 4:3 Screen Mod.
+Original mod was made by RookieModMaker using LaveSlime's 4:3 Screen mod.
 
 Fixed Version:
 
