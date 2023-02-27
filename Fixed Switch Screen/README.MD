@@ -1,6 +1,6 @@
 # Fixed Switch Screen 
 
-Simply removes that number from RookieModMaker's Nintendo Switch Screen mod.
+Simply removes that not really funny number from RookieModMaker's Nintendo Switch Screen mod.
 
 Original mod was made by RookieModMaker using LaveSlime's 4:3 Screen mod.
 
