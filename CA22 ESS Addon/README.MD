@@ -6,4 +6,3 @@ Reccomanded to use with CA22 Trio Mod by CreatorLeo.
 Extra Save Slots by Dynamic Lemons.
 
 Sprites by CartoonAnimate'22.
-#
