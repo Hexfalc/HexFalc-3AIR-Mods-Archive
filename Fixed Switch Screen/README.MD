@@ -7,3 +7,4 @@ Original mod was made by RookieModMaker using LaveSlime's 4:3 Screen Mod.
 # Installation 
 
 Just copy this modified bg.png in the sprites folder of the original mod.
+#
